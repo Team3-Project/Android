@@ -8,6 +8,7 @@
     <string name="log_In_Name_Hint">请输入您的账号</string>
     <string name="log_In_Password_Hint">请输入您的密码</string>
     <string name="foget_Password">忘记密码？</string>
+    <string name="title_activity_welcome">Welcome</string>
 
 
 </resources>
