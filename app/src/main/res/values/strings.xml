@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WENS_Farm</string>
+    <!--登录界面的信息-->
+    <string name="log_In_Title">温氏农场</string>
+    <string name="log_In_Subheading">WENS Farm</string>
+    <string name="log_In_Button">登录</string>
+    <string name="Sign_In_Button">注册</string>
+    <string name="log_In_Name_Hint">请输入您的账号</string>
+    <string name="log_In_Password_Hint">请输入您的密码</string>
+    <string name="foget_Password">忘记密码？</string>
+
+
+</resources>
