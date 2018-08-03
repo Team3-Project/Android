@@ -34,6 +34,7 @@
             />
 
         <EditText
+            android:id="@+id/log_in_number_editText"
             android:layout_width="wrap_content"
             android:layout_height="35dp"
             android:layout_gravity="center_horizontal"
@@ -45,9 +46,11 @@
             android:padding="5dp"
             android:textColor="#4e4e4e"
             android:textColorHint="@android:color/darker_gray"
-            android:inputType="number"/>
+            android:inputType="number"
+            android:maxLength="11"/>
 
         <EditText
+            android:id="@+id/log_in_password_editText"
             android:layout_width="wrap_content"
             android:layout_height="35dp"
             android:layout_gravity="center_horizontal"
@@ -72,7 +75,7 @@
             />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/log_in_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/log_In_Button"
@@ -83,13 +86,13 @@
             android:background="#58c9b9"/>
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/log_in_sign_in_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
-            android:text="@string/Sign_In_Button"
+            android:text="@string/log_in_Sign_In_Button"
             android:textSize="20sp"
             android:background="@drawable/sign_in_button"/>
     </LinearLayout>

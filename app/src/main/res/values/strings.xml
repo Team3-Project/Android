@@ -4,11 +4,23 @@
     <string name="log_In_Title">温氏农场</string>
     <string name="log_In_Subheading">WENS Farm</string>
     <string name="log_In_Button">登录</string>
-    <string name="Sign_In_Button">注册</string>
+    <string name="log_in_Sign_In_Button">注册</string>
     <string name="log_In_Name_Hint">请输入您的账号</string>
     <string name="log_In_Password_Hint">请输入您的密码</string>
     <string name="foget_Password">忘记密码？</string>
     <string name="title_activity_welcome">Welcome</string>
 
+    <!--注册界面-->
+    <string name="sign_in_number">  手机：</string>
+    <string name="sign_in_numberHint">请输入您的手机号</string>
+    <string name="sign_in_password">  密码：</string>
+    <string name="sign_in_passwordHint">请输入您的密码</string>
+    <string name="sign_in_resurePassword">再次确认:</string>
+    <string name="sign_in_identifyingCode">验证码:</string>
+    <string name="sign_in_sendIdentifyingCode">发送验证码</string>
+    <string name="sign_in_identifyingCodeHint">输入验证码</string>
+    <string name="sign_in_Button">立即注册</string>
 
+    <!--欢迎页面的-->
+    <string name="welcome_after_login">加载中。。。。。。</string>
 </resources>
